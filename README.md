@@ -18,7 +18,7 @@
 <br></br>
 
 ## Skills
-<img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
+<img src= "https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat"/>
 
 
 
