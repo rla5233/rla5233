@@ -1,6 +1,6 @@
 ## SooWon Kim
-Email :
-Notion :
+Email : rla5233@naver.com   
+Notion : https://www.notion.so/TO-POST-71e59cf0c77f4e3da2c86543e83a90d6
 <br></br>
 
 ## Baekjoon Online Judge
