@@ -1,7 +1,17 @@
 ## SooWon Kim
-Email : rla5233@naver.com   
-Notion : https://www.notion.so/TO-POST-71e59cf0c77f4e3da2c86543e83a90d6
-<br></br>
+
+<table>
+  <tr>
+    <td><b>Email</b></td>
+    <td>rla5233@naver.com</td>
+    
+  </tr>
+  <tr>
+    <td><b>Notion</b></td>
+    <td>https://www.notion.so/TO-POST-71e59cf0c77f4e3da2c86543e83a90d6</td>
+    
+  </tr>
+</table>
 
 ## Baekjoon Online Judge
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=rla5233)](https://solved.ac/rla5233)
