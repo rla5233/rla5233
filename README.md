@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><b>Notion</b></td>
-    <td>https://www.notion.so/TO-POST-71e59cf0c77f4e3da2c86543e83a90d6</td>
+    <td>https://tough-broom-e12.notion.site/TO-POST-71e59cf0c77f4e3da2c86543e83a90d6</td>
     
   </tr>
 </table>
